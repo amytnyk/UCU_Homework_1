@@ -1,3 +1,5 @@
 # images
 # text
 # temporary
+__pycache__
+.idea
